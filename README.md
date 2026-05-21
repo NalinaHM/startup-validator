@@ -1,15 +1,23 @@
 # 🚀 Startup Idea Validator
-AI-powered startup idea analyzer built with React + Groq AI
 
-## What it does
-Paste any startup idea and get a VC-grade analysis in seconds:
-- Market size (TAM/SAM/SOM)
-- Competitor analysis  
-- Revenue models
-- Go-to-market strategy
-- Risk assessment
+An AI-powered web app that analyzes your startup idea and gives 
+a VC-grade breakdown in seconds.
 
-## Tech Stack
+## ✨ Features
+- 📊 Market Size Analysis (TAM/SAM/SOM)
+- ⚔️ Competitor Landscape
+- 💰 Revenue Model Suggestions
+- 🚀 Go-To-Market Strategy
+- ⚠️ Risk Assessment
+- 🎯 Investor Verdict & Score
+
+## 🛠️ Tech Stack
 - React + Vite
-- Groq AI (LLaMA 3)
+- Groq AI (LLaMA 3.3)
 - Deployed on Vercel
+
+## 🏆 Built for
+HackIndia Summer Internship Hackathon 2026
+
+## 👩‍💻 Built by
+Nalina HM
